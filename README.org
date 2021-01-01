@@ -1,2 +1,3 @@
 #+TITLE: samwdp
 
+[[https://github-readme-stats.vercel.app/api?username=samwdp&hide_title=true&theme=darcula][status card]]
