@@ -1,3 +1,0 @@
-#+TITLE: samwdp
-
-[[file:https://github-readme-stats.vercel.app/api?username=samwdp&hide_title=true&theme=darcula]]
